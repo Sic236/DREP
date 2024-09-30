@@ -56,9 +56,9 @@
     "doNotList": false,
     "givenName": "Sic236",
     "motivations": "Born in #1997, joined crypto in #2019..\n\nNFTs were my main reason to explore crypto back in 2019. I have joined Cardano only when the first NFT collection minted, but ever since I felt in love with this blockchain and its community.\n\nThat marked the moment when I've quit my web2 job as a psychologist in the army under Romanian Intelligence Service department and joined Cardano full time.\n\nNow I wouldn't imagine me working in any other place, Cardano is my home and I want a fruitful career here.\n\nI would do anything it takes to see Cardano thriving and fulfilling it's mission.",
-    "objectives": "My main focus will be on things that matter for the entire Ecosystem:\n\n☑️ Onboard New User\n☑️ Marketing\n☑️ Increase Trading Volume\n☑️ Tech Improvements\n☑️ Push DePin\n☑️ Push NFTs & Gaming",
+    "objectives": "My main focus will be on things that matter for the entire Ecosystem:\n\n☑️ Onboard New User\n☑️ Marketing\n☑️ Increase Trading Volume\n☑️ Tech Improvements\n☑️ Push DePin\n☑️ Push NFTs & Gaming\n",
     "paymentAddress": "addr1q9wt8qv5v0l2fn0jeyz5qdgmjwrup87pj5trpv2a8ur044qzrppv8w0x296tg2xnmgw2q04gva49emydyld8h3k95z8ssn3gmy",
-    "qualifications": "Web2 Psychologist\nWeb3 Marketer\n\nIn the past 3 I have been working as Chief Marketing Officer, Community Manger and Advisory roles for over 40 Projects on Cardano, including NFTs, Tokens, dApps and development services.\n\nThat allowed me to see all perspectives and understand what both users and builders need from and for Cardano.",
+    "qualifications": "Web2 Psychologist\nWeb3 Marketer\n\nIn the past 3 I have been working as Chief Marketing Officer, Community Manger and Advisory roles for over 40 Projects on Cardano, including NFTs, Tokens, dApps and development services.\n\nThat allowed me to see all perspectives and understand what both users and builders need from and for Cardano.\n",
     "references": [
       {
         "@type": "Link",
@@ -67,7 +67,7 @@
       },
       {
         "@type": "Identity",
-        "label": "X Profile",
+        "label": "X profile",
         "uri": "https://x.com/Sic2336"
       }
     ]
